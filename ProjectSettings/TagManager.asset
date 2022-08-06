@@ -48,3 +48,6 @@ TagManager:
   - name: Activator
     uniqueID: 1475024695
     locked: 0
+  - name: Canvas
+    uniqueID: 1952648913
+    locked: 0
